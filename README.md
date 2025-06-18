@@ -66,8 +66,9 @@ To enhance understanding, we created the following plots:
 
 ![Price Histogram](<price histogram.png>)
 #### 2. Rating vs. Primary Rear Camera MP
-![Rating VS Price](<ating vs Price.png>)
 
+
+![Rating VS Price](<ating vs Price.png>)
 
 
 ---
